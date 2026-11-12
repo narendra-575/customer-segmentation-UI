@@ -1,0 +1,9 @@
+.rightside {
+    display: flex;
+    gap: 15px;
+    width: 1100px;
+    height: 88vh;
+    padding: 20px;
+    overflow: auto;
+
+}
