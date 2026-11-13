@@ -4,7 +4,7 @@ import { defineConfig } from 'vite'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/company-requirement-Job-card/',
+  base: '/customer-segmentation-UI/',
 })
 
 
